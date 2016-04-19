@@ -1,27 +1,41 @@
-MAIN SITE ANALYSIS
+#MAIN SITE ANALYSIS
 
+---
 
 ##OVERALL SUGGESTIONS/ IDEAS FOR IMPROVEMENT
-####**ALL**
+###**All**
 1. white background instead of link pink (clashes with red a little bit)
 1. contact page be a modal instead?
 
-####**HEADER**
+###**Header**
 1. Hamburger Menu… on click, options justified to the center or right
 
-####**MAIN-HOME**
-1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
+###**Main
+*   ####Home
+    1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
+    1. test 
 
-####**MAIN-LEADERSHIP**
+*   ####Leadership
+    1. test
+    1. test
 
-####**MAIN-WE'RE HIRING**
+*   ####We're Hiring
+    1. test
+    1. test
 
-####**MAIN-WHAT WE DO**
+*   ####What we Do
+    1. test
+    1. test
 
-###**FOOTER**
+###Footer
+1. test
+1. test
 
-###EXTRA
+###Extra
+1. test
+1. test
 
+---
 
 ##OVERALL BUGS
 **Tested On:**
@@ -36,22 +50,34 @@ MAIN SITE ANALYSIS
 * Android (tablet) - Galaxy Tab 4 10.1
 * Android (mobile) - Galaxy S6
 
-####**ALL**
+###**All**
 1. white background instead of link pink (clashes with red a little bit)
 1. contact page be a modal instead?
 
-####**HEADER**
+###**Header**
 1. Hamburger Menu… on click, options justified to the center or right
 
-####**MAIN-HOME**
-1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
+###**Main
+*   ####Home
+    1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
+    1. test 
 
-####**MAIN-LEADERSHIP**
+*   ####Leadership
+    1. test
+    1. test
 
-####**MAIN-WE'RE HIRING**
+*   ####We're Hiring
+    1. test
+    1. test
 
-####**MAIN-WHAT WE DO**
+*   ####What we Do
+    1. test
+    1. test
 
-###**FOOTER**
+###Footer
+1. test
+1. test
 
-###EXTRA
+###Extra
+1. test
+1. test
