@@ -1,42 +1,44 @@
 #MAIN SITE ANALYSIS
----
+----
 
 ##OVERALL SUGGESTIONS/ IDEAS FOR IMPROVEMENT
+
 ###ALL
-1. white background instead of link pink (clashes with red a little bit)
-1. contact page be a modal instead?
+    1. white background instead of link pink (clashes with red a little bit)
+    1. contact page be a modal instead?
 
 ###HEADER
-1. Hamburger Menu… on click, options justified to the center or right
+    1. Hamburger Menu… on click, options justified to the center or right
 
 ###MAIN
-   ####Home
+####Home
     1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
     1. test 
 
-   ####Leadership
+####Leadership
     1. test
     1. test
 
-   ####We're Hiring
+####We're Hiring
     1. test
     1. test
 
-   ####What we Do
+###What we Do
     1. test
     1. test
 
 ###FOOTER
-1. test
-1. test
+    1. test
+    1. test
 
 ###EXTRA
-1. test
-1. test
+    1. test
+    1. test
 
 ---
 
 ##OVERALL BUGS
+
 **Tested On:**
 * Chrome - (OS X El Capitan)
 * Firefox - (Windows 10)
@@ -50,11 +52,11 @@
 * Android (mobile) - Galaxy S6
 
 ###ALL
-1. white background instead of link pink (clashes with red a little bit)
-1. contact page be a modal instead?
+    1. white background instead of link pink (clashes with red a little bit)
+    1. contact page be a modal instead?
 
 ###HEADER
-1. Hamburger Menu… on click, options justified to the center or right
+    1. Hamburger Menu… on click, options justified to the center or right
 
 ###MAIN
 ####Home
@@ -74,9 +76,9 @@
     1. test
 
 ###FOOTER
-1. test
-1. test
+    1. test
+    1. test
 
 ###EXTRA
-1. test
-1. test
+    1. test
+    1. test
