@@ -2,14 +2,14 @@
 ---
 
 ##OVERALL SUGGESTIONS/ IDEAS FOR IMPROVEMENT
-###All
+###ALL
 1. white background instead of link pink (clashes with red a little bit)
 1. contact page be a modal instead?
 
-###Header
+###HEADER
 1. Hamburger Menu… on click, options justified to the center or right
 
-###Main
+###MAIN
    ####Home
     1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
     1. test 
@@ -26,11 +26,11 @@
     1. test
     1. test
 
-###Footer
+###FOOTER
 1. test
 1. test
 
-###Extra
+###EXTRA
 1. test
 1. test
 
@@ -49,34 +49,34 @@
 * Android (tablet) - Galaxy Tab 4 10.1
 * Android (mobile) - Galaxy S6
 
-###All
+###ALL
 1. white background instead of link pink (clashes with red a little bit)
 1. contact page be a modal instead?
 
-###Header
+###HEADER
 1. Hamburger Menu… on click, options justified to the center or right
 
-###Main
-   ####Home
+###MAIN
+####Home
     1. picture slider behind slogan: ‘Technical Strategy, Architecture, and Expertise for Open Solutions’
     1. test 
 
-   ####Leadership
+####Leadership
     1. test
     1. test
 
-   ####We're Hiring
+####We're Hiring
     1. test
     1. test
 
-   ####What we Do
+####What we Do
     1. test
     1. test
 
-###Footer
+###FOOTER
 1. test
 1. test
 
-###Extra
+###EXTRA
 1. test
 1. test
