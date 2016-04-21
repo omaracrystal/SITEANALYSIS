@@ -15,7 +15,7 @@
 1. Contact appear as modal than appear on seperate page
 
 ####Leadership
-1. Photos of Leaders with links to social media as optional
+1. Photos of Leaders with links to social media as ~~optional~~
 
 ####We're Hiring
 1. Redesign form and supply ability to upload a resume and provide a field for providing a portfolio. Have option to add Github, LinkedIn urls.
